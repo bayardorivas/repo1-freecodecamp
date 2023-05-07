@@ -1,2 +1,2 @@
-# repo1-freecodecamp
+# Mi primer README
 Repositorio de prueba con el curso de FreeCodeCamp
